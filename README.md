@@ -1,7 +1,7 @@
 # Idoontnoow
 Just a fun website asking you whether you would like to Date me or not.
 
-Try it out!! [Click here](https://sujinphilip.github.io/willYouMarryme/)
+Try it out!! [Click here](https://sujinphilip.github.io/willYouDateme/)
 
 So will you Dete me? Yes 🥹 or No 😏 
 [![repository-open-graph-template.jpg](https://i.postimg.cc/X74JVs3G/repository-open-graph-template.jpg)](https://postimg.cc/HjvHz4rd)
